@@ -1,3 +1,4 @@
 import numpy as np
 rand_x = np.random.rand(15)
-# Here are some words. 
+# Here are some words.
+# Here are more words.
