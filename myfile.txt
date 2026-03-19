@@ -1,4 +1,3 @@
-import numpy as np
-rand_x = np.random.rand(15)
-# Here are some words.
-# Here are more words.
+# Here is some information about this code
+x = 2
+x = 2+x
