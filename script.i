@@ -1,2 +1,1 @@
-
-print("Hello World Master")
+print("Hello World Both")
